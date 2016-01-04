@@ -1,0 +1,102 @@
+--- !ruby/object:Livro
+titulo: TDD
+autor: Iago Velasco
+isbn: '23442'
+numero_de_paginas: 247
+valor: 69.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Iago Velasco
+isbn: '4234'
+numero_de_paginas: 143
+valor: 89.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: Teste Dev
+autor: Nathalia Peixoto
+isbn: '2342'
+numero_de_paginas: 123
+valor: 43.8
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+isbn: '1234'
+numero_de_paginas: 247
+valor: 89.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+isbn: '1234'
+numero_de_paginas: 247
+valor: 89.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+isbn: '32423'
+numero_de_paginas: 234
+valor: 234.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Mauricio
+isbn: '3432'
+numero_de_paginas: 234
+valor: 234.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: Design
+autor: Marcos
+isbn: '33'
+numero_de_paginas: 263
+valor: 23.9
+categoria: :web
+
+--- !ruby/object:Livro
+titulo: Design Responsivo
+autor: Pedro
+isbn: '5234233'
+numero_de_paginas: 523
+valor: 52.9
+categoria: :web
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Iago Velasco
+isbn: 1
+numero_de_paginas: '12345'
+valor: 347
+categoria: :testes
+desconto: 0.15
+
+--- !ruby/object:Livro
+titulo: Programacao
+autor: Iago Velasco
+isbn: 1
+numero_de_paginas: '2423423'
+valor: 234
+categoria: :testes
+desconto: 0.15
+
+--- !ruby/object:Livro
+titulo: TDD
+autor: Iago Velasco
+isbn: '23123'
+numero_de_paginas: 234
+valor: 69
+categoria: :testes
+desconto: 0.15
+
+--- !ruby/object:Revista
+titulo: MundoJ
+
